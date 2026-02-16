@@ -1,0 +1,19 @@
+# GitHub Pages configuration for Privacy Policy Repository
+
+# Theme
+theme: jekyll-theme-cayman
+
+# Disable GitHub repository links globally
+github:
+  is_project_page: false
+  is_user_page: false
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
