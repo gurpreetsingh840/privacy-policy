@@ -1,0 +1,24 @@
+# GitHub Pages configuration for Gym Lite Privacy Policy
+
+title: Gym Lite Privacy Policy
+description: Privacy Policy for Gym Lite - Your Personal Fitness Coach
+baseurl: "" # Leave empty if using custom domain
+url: "" # Your GitHub Pages URL will be here
+
+# Theme
+theme: jekyll-theme-cayman
+
+# Exclude files from the site
+exclude:
+  - FIREBASE_INTEGRATION_WALKTHROUGH.md
+  - versioning.md
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
