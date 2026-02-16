@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the header title link */
+.project-name {
+  display: none;
+}
