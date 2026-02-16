@@ -7,7 +7,7 @@ description: Privacy Policy for Gym Lite - Your Personal Fitness Coach
 # Gym Lite Privacy Policy
 
 **Effective Date:** February 15, 2026  
-**Last Updated:** February 15, 2026
+**Last Updated:** February 16, 2026
 
 This Privacy Policy describes how Gym Lite ("we," "our," or "the App") collects, uses, and protects your information. By using the App, you agree to the terms of this Privacy Policy.
 
@@ -36,8 +36,8 @@ When you consent to analytics and crash reporting, the following **pseudonymous 
   - Workout session metrics (start time, duration, pauses, completion)
   - Exercise events (exercises started, completed, or skipped)
   - Profile edits (only when age, height, or weight are updated)
-  - Age (calculated from date of birth), height (in cm), and weight (in kg) sent when starting exercises
-  - Device information (device type, operating system, app version)
+  - Age (calculated from date of birth), height (in cm), and weight (in kg) sent when starting each exercise during workout sessions
+  - Device information (OS type: iOS/Android, app version)
 
 - **Crash Reporting (Firebase Crashlytics):**
   - Crash reports and error diagnostics
