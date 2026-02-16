@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Gym Lite Privacy Policy
+description: Privacy Policy for Gym Lite - Your Personal Fitness Coach
 ---
 
 # Gym Lite Privacy Policy
